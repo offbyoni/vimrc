@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='Z:/Reports/PST_Polarstern/201506'
+let g:netrw_dirhist_2='Z:/Reports/_StandardLayout'
+let g:netrw_dirhist_3='Z:/Reports'
+let g:netrw_dirhist_4='Z:/Reports/PST_Polarstern'
+let g:netrw_dirhist_5='Z:/Reports/PST_Polarstern/201506'
+let g:netrw_dirhist_6='D:/workspace mk_car/mk_car_thomas_standard/tests'
+let g:netrw_dirhist_7='Z:/Reports/RVT_Research_Vessel_Thomas_Thompson_Scripps'
